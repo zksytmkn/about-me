@@ -1,7 +1,6 @@
 ## Information
 
 ## Skills
-#### Frontend
 ###### Since Vue.js and Nuxt.js upgraded to version 3, I have mainly been using React and Next.js. 🏃 
 
 - TypeScript
