@@ -8,5 +8,6 @@
 - Next.js（v13）
 - Vue.js（v2）
 - Nuxt.js（v2）
+- Kotlin（v1.5）
 
 ## Projects
